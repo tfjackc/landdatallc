@@ -9,7 +9,7 @@ export default function LandingPage() {
                 Contact us @ landdatallc@gmail.com
             </div>
             <div className="m-2 font-manrope text-slate-900 text-shadow-2xs">
-                More details coming soon...
+                Website launch coming soon...
             </div>
         </div>
     )
